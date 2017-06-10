@@ -76,6 +76,6 @@ I'm currently setting up my BeagleBone White as a wireless network monitor.
  * Airodump-ng
  * D-Link DWA-131
 
-{% img  /images/bbw_wlan.jpg BeagleBone Wireless Monitor %}
+![BeagleBone Wireless Monitor](/images/bbw_wlan.jpg)
 
 [0]: http://elinux.org/Beagleboard:BeagleBone_Black_Accessories#Serial_Debug_Cables
