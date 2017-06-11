@@ -21,24 +21,24 @@ request a raid array check:
 
 You can then check the status of the check via `/proc/mdstat` as normal:
 
-    
-    [mike@mercury|~] $ cat /proc/mdstat 
-    Personalities : [raid1] [raid10] 
+    [mike@mercury|~] $ cat /proc/mdstat
+    Personalities : [raid1] [raid10]
     md1 : active raid10 sda3[0] sdd3[3] sdc3[2] sdb3[1]
           484231040 blocks 64K chunks 2 near-copies [4/4] [UUUU]
           [=>...................]  check =  6.3% (30890816/484231040) finish=73.7min...
-          
+
     md0 : active raid1 sda1[0] sdd1[3] sdc1[2] sdb1[1]
           128384 blocks [4/4] [UUUU]
-          
+
     unused devices: <none>
-    
 
-
-
-Checking a modestly sized array can take some time. In the case of a large array and a RAID level that uses parity such as 5 or 6 it is reported that it can take a very long time to do a check. Resyncs are even worse as they involve writing as well as reading.
+Checking a modestly sized array can take some time. In the case of a large array
+and a RAID level that uses parity such as 5 or 6 it is reported that it can take
+a very long time to do a check. Resyncs are even worse as they involve writing
+as well as reading.
 
 Check the log file for the status of the completed check:
+
     [mike@mercury|~/data/scans] $ grep 'kernel: md' /var/log/messages.log | tail -n 5
     Apr 10 16:27:58 mercury kernel: md: data-check of RAID array md1
     Apr 10 16:27:58 mercury kernel: md: minimum _guaranteed_  speed: 1000 KB/sec/disk.
