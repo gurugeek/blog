@@ -1,4 +1,7 @@
-name: cobalt blog
+name: sda.io
+description: My Journal of tech projects and other random things.
+link: http://sda.io
+rss: rss.xml
 source: "./"
 dest: "build"
 ignore:
