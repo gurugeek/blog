@@ -1,20 +1,46 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <meta charset="utf-8">
+<head>
+
+  <!-- Basic Page Needs -->
+  <meta charset="utf-8">
+{% if is_post %}
+  <title>{{ title }}</title>
+{% else %}
+  <title>Cobalt.rs Blog</title>
+{% endif %}
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <!-- Mobile Specific Metas -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <!-- FONT -->
+  <link href="//fonts.googleapis.com/css?family=Raleway:400,300,600" rel="stylesheet" type="text/css">
+
+  <!-- CSS -->
+  <link rel="stylesheet" href="/css/normalize.css">
+  <link rel="stylesheet" href="/css/skeleton.css">
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="/images/favicon.png">
+
+</head>
+<body>
+
+  <!-- Primary Page Layout -->
+  <div class="container">
+    <div class="row">
+      <div class="twelve column" style="margin-top: 25%">
         {% if is_post %}
-          <title>{{ title }}</title>
+          {% include '_layouts/post.liquid' %}
         {% else %}
-          <title>Cobalt.rs Blog</title>
+          {{ content }}
         {% endif %}
-    </head>
-    <body>
-    <div>
-      {% if is_post %}
-        {% include '_layouts/post.liquid' %}
-      {% else %}
-        {{ content }}
-      {% endif %}
+      </div>
     </div>
-  </body>
+  </div>
+  <!-- End Document -->
+
+</body>
 </html>
