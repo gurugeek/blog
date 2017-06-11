@@ -8,7 +8,7 @@ categories: [Books, Linux, Security]
 
 Here are most of the books I read in 2015.
 
-## Fiction
+#### Fiction
 
 [Seveneves][se] by Neal Stephenson would be my book of the year. Amazing story
 split over 5000 years. Some of the themes have been seen before though they are
@@ -48,7 +48,7 @@ Read the book a couple of times and saw the movie. [The Martian][tm] by Andy
 Weir is a unique book. If you only saw the movie and enjoyed it then read the
 book. There were some great scenes left out of the movie.
 
-## Non Fiction
+#### Non Fiction
 
 My non fiction reading was often security or software/hardware engineering
 related.
