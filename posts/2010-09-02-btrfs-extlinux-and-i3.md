@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-09-02 05:24:56+00:00
+date: 02 Sep 2010 05:24:56 +0000
 layout: post
 slug: btrfs-extlinux-and-i3
 title: BTRFS, EXTLINUX and i3.

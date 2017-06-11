@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-01-17 09:12:45+00:00
+date: 17 Jan 2010 09:12:45 +0000
 layout: post
 slug: nokia-n95-on-linux
 title: Nokia N95 on Linux

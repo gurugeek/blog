@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-09-12 05:06:08+00:00
+date: 12 Sep 2009 05:06:08 +0000
 layout: post
 slug: britain-says-sorry-to-computing-pioneer-alan-turing
 title: Britain says sorry to computing pioneer Alan Turing

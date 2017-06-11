@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-09-03 12:16:41+00:00
+date: 03 Spe 2009 12:16:41 +0000
 layout: post
 slug: botan-an-open-source-c-crypto-library
 title: Botan - an open source C++ crypto library.

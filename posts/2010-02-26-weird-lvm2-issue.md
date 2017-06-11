@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-02-26 07:47:59+00:00
+date: 26 Feb 2010 07:47:59 +0000
 layout: post
 slug: weird-lvm2-issue
 title: Weird lvm2 issue.

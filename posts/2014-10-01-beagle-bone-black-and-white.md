@@ -1,7 +1,7 @@
 extends: default.liquid
 layout: post
 title: "BeagleBone - Black and White"
-date: 2014-10-12 19:13:33 +1000
+date: 12 Oct 2014 19:13:33 +1000
 comments: true
 categories: Linux
 ---

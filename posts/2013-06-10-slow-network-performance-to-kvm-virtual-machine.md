@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2013-06-10 10:10:53+00:00
+date: 10 Jun 2013 10:10:53 +0000
 layout: post
 slug: slow-network-performance-to-kvm-virtual-machine
 title: Slow network performance to KVM virtual machine.

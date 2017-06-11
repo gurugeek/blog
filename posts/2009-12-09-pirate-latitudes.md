@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-12-09 10:28:48+00:00
+date: 09 Dec 2009 10:28:48 +0000
 layout: post
 slug: pirate-latitudes
 title: Pirate Latitudes

@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-07-08 12:29:00+00:00
+date: 08 Jul 2009 12:29:00 +0000
 layout: post
 slug: firefox-35-google-chrome-os-open-solaris
 title: Firefox 3.5, Google Chrome OS, Open Solaris

@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-07-02 11:20:05+00:00
+date: 02 Jul 2009 11:20:05 +0000
 layout: post
 slug: new-router
 title: New Router, dnsmasq and Jeff Golblum!

@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-09-21 10:18:26+00:00
+date: 21 Sep 2009 10:18:26 +0000
 layout: post
 slug: haskell-far-from-a-hacker-but-making-progress
 title: Haskell. Far from a hacker but making progress.

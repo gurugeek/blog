@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-01-10 12:43:49+00:00
+date: 10 Jan 2010 12:43:49 +0000
 layout: post
 slug: book-database-and-git
 title: Book Database and Git

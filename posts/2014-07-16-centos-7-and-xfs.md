@@ -1,7 +1,7 @@
 extends: default.liquid
 layout: post
 title: "CentOS 7 and XFS"
-date: 2014-07-16 19:20:19 +1000
+date: 16 Jul 2014 19:20:19 +1000
 comments: true
 categories: Linux CentOS
 ---

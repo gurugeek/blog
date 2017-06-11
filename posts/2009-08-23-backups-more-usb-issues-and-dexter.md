@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-08-23 11:36:28+00:00
+date: 23 Aug 2009 11:36:28 +0000
 layout: post
 slug: backups-more-usb-issues-and-dexter
 title: Backups, more USB issues and Dexter!

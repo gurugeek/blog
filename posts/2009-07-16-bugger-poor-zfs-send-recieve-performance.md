@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-07-16 17:18:48+00:00
+date: 16 Jul 2009 17:18:48 +0000
 layout: post
 slug: bugger-poor-zfs-send-recieve-performance
 title: Poor ZFS send recieve performance.

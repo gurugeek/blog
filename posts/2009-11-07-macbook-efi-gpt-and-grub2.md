@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-11-07 08:01:38+00:00
+date: 07 Nov 2009 08:01:38 +0000
 layout: post
 slug: macbook-efi-gpt-and-grub2
 title: Macbook, EFI, GPT and Grub2

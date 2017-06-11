@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-09-20 10:50:28+00:00
+date: 20 Sep 2009 10:50:28 +0000
 layout: post
 slug: xmonad-welcome-to-the-darcs-side
 title: XMonad. Welcome to the Darcs side.

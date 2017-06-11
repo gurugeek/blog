@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-09-28 06:41:00+00:00
+date: 28 Sep 2009 06:41:00 +0000
 layout: post
 slug: mplayer-and-vdpau
 title: mplayer and vdpau

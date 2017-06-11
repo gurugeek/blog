@@ -1,7 +1,7 @@
 extends: default.liquid
 layout: post
 title: "Pinger - A simple ICMP monitor."
-date: 2014-08-21 21:17:23 +1000
+date: 21 Aug 2014 21:17:23 +1000
 comments: true
 categories: Linux Python
 ---

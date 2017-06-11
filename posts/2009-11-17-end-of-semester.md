@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-11-17 09:31:42+00:00
+date: 17 Nov 2009 09:31:42 +0000
 layout: post
 slug: end-of-semester
 title: End of Semester.

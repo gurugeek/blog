@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-06-21 07:40:33+00:00
+date: 21 Jun 2009 07:40:33 +0000
 layout: post
 slug: hello-world-2
 title: Mine!. All mine!

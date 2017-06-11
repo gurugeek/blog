@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-08-03 10:49:25+00:00
+date: 03 Aug 2009 10:49:25 +0000
 layout: post
 slug: great-train-robbery
 title: Great Train Robbery

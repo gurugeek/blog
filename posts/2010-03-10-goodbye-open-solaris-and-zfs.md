@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-03-10 13:42:54+00:00
+date: 10 Mar 2010 13:42:54 +0000
 layout: post
 slug: goodbye-open-solaris-and-zfs
 title: Goodbye Open Solaris and ZFS.

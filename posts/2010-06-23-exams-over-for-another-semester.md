@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-06-23 12:20:22+00:00
+date: 23 Jun 2010 12:20:22 +0000
 layout: post
 slug: exams-over-for-another-semester
 title: Exams over for another semester.

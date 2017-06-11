@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2011-02-09 08:33:00+00:00
+date: 09 Feb 2011 08:33:00 +0000
 layout: post
 slug: gpt-raid1-setup
 title: GPT RAID1 setup.

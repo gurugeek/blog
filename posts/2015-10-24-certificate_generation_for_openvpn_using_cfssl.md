@@ -1,7 +1,7 @@
 extends: default.liquid
 layout: post
 title: "Certificate Generation for OpenVPN using CFSSL"
-date: 2015-10-24 20:43:01 +1100
+date: 24 Oct 2015 20:43:01 +1100
 comments: true
 categories: Linux Security
 ---

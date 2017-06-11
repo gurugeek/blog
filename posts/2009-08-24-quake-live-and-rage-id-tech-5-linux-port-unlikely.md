@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-08-24 11:44:09+00:00
+date: 24 Aug 2009 11:44:09 +0000
 layout: post
 slug: quake-live-and-rage-id-tech-5-linux-port-unlikely
 title: Quake Live and Rage (id Tech 5) Linux port unlikely.

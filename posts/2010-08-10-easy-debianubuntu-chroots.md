@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-08-10 10:56:08+00:00
+date: 10 Aug 2010 10:56:08 +0000
 layout: post
 slug: easy-debianubuntu-chroots
 title: Easy Debian/Ubuntu chroots.

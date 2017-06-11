@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-07-14 12:56:59+00:00
+date: 14 Jul 2009 12:56:59 +0000
 layout: post
 slug: open-solaris-and-zfs-first-impressions
 title: Open Solaris and ZFS First Impressions

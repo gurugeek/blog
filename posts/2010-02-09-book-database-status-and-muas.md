@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-02-09 03:37:02+00:00
+date: 09 Feb 2010 03:37:02 +0000
 layout: post
 slug: book-database-status-and-muas
 title: Book database status and MUAs.

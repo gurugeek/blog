@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-11-24 09:20:04+00:00
+date: 24 Nov 2009 09:20:04 +0000
 layout: post
 slug: vim-outliner
 title: VimOutliner

@@ -1,7 +1,7 @@
 extends: default.liquid
 layout: post
 title: "Simple Isolated Builds in Docker"
-date: 2016-01-08 01:52:25 +1100
+date: 08 Jan 2016 01:52:25 +1100
 comments: true
 categories: [Linux, Docker, Rust]
 ---

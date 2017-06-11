@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-09-16 11:25:03+00:00
+date: 16 Sep 2009 11:25:03 +0000
 layout: post
 slug: telstra-separation-quake-3-and-an-interesting-pdf-viewer
 title: Telstra separation, Quake 3 and an interesting pdf viewer.

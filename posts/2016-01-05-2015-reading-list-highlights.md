@@ -1,7 +1,7 @@
 extends: default.liquid
 layout: post
 title: "2015 Reading List Highlights"
-date: 2016-01-05 14:24:46 +1100
+date: 01 Jan 2016 14:24:46 +1100
 comments: true
 categories: [Books, Linux, Security]
 ---

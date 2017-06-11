@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-06-27 11:45:13+00:00
+date: 27 Jun 2009 11:45:13 +0000
 layout: post
 slug: windows-7-stickies-and-ikog
 title: Windows 7 Stickies and iKog

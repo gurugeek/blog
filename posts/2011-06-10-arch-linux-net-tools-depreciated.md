@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2011-06-10 08:49:46+00:00
+date: 10 Jun 2011 08:49:46 +0000
 layout: post
 slug: arch-linux-net-tools-depreciated
 title: Arch Linux net-tools depreciated.

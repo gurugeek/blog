@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-02-12 11:01:34+00:00
+date: 12 Feb 2010 11:01:34 +0000
 layout: post
 slug: postfix-reject_rbl_client-and-google-dns
 title: Postfix, reject_rbl_client and Google DNS

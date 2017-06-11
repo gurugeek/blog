@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-08-08 09:29:13+00:00
+date: 08 Aug 2009 09:29:13 +0000
 layout: post
 slug: mail-issues
 title: Mail Issues.

@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-12-22 06:12:08+00:00
+date: 22 Dec 2009 06:12:08 +0000
 layout: post
 slug: lvm-setup-and-desktop-virtualisation
 title: LVM setup and desktop virtualisation.

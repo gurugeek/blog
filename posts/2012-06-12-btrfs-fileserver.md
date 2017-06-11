@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2012-06-12 10:37:19+00:00
+date: 12 Jun 2012 10:37:19 +0000
 layout: post
 slug: btrfs-fileserver
 title: BTRFS Fileserver

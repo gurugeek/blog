@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-04-05 03:15:41+00:00
+date: 05 Apr 2010 03:15:41 +0000
 layout: post
 slug: btrfsrsync-based-backups
 title: BTRFS/RSYNC based backups.

@@ -1,7 +1,7 @@
 extends: default.liquid
 layout: post
 title: "Octopress and the Eudyptula Challenge"
-date: 2014-04-01 21:56:07 +1100
+date: 01 Apr 2014 21:56:07 +1100
 comments: true
 categories:
 - Linux

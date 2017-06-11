@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-11-11 07:25:27+00:00
+date: 11 Nov 2009 07:25:27 +0000
 layout: post
 slug: sudo-vim-vs-sudoedit
 title: sudo vim vs sudoedit

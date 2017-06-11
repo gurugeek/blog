@@ -1,7 +1,7 @@
 extends: default.liquid
 layout: post
 title: "Trivial SSH tricks"
-date: 2016-06-04 20:49:44 +1000
+date: 04 Jun 2016 20:49:44 +1000
 comments: true
 categories: [Linux, SSH]
 ---

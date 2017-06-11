@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2013-05-01 10:47:39+00:00
+date: 01 May 2013 10:47:39 +0000
 layout: post
 slug: upgrading-debian-squeeze-to-wheezy-on-an-alix2
 title: Upgrading Debian Squeeze to Wheezy on an ALIX2.

@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-07-26 11:42:38+00:00
+date: 26 Jul 2010 11:42:38 +0000
 layout: post
 slug: native-resolution-console-with-the-binary-nvidia-blob
 title: Native resolution console with the binary nVidia blob.

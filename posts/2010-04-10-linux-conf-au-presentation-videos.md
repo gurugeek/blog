@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2010-04-10 06:51:28+00:00
+date: 10 Apr 2010 06:51:28 +0000
 layout: post
 slug: linux-conf-au-presentation-videos
 title: linux.conf.au presentation videos

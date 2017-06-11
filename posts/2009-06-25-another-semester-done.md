@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-06-25 07:34:11+00:00
+date: 25 Jun 2009 07:34:11 +0000
 layout: post
 slug: another-semester-done
 title: Another semester done.

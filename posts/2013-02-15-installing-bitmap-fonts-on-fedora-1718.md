@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2013-02-15 09:50:08+00:00
+date: 15 Feb 2013 09:50:08 +0000
 layout: post
 slug: installing-bitmap-fonts-on-fedora-1718
 title: Installing bitmap fonts on Fedora 17/18

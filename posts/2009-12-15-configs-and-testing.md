@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-12-15 10:23:55+00:00
+date: 15 Dec 2009 10:23:55 +0000
 layout: post
 slug: configs-and-testing
 title: Configs and [testing].

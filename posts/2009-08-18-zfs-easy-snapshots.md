@@ -1,7 +1,7 @@
 extends: default.liquid
 author: admin
 comments: true
-date: 2009-08-18 11:48:29+00:00
+date: 18 Aug 2009 11:48:29 +0000
 layout: post
 slug: zfs-easy-snapshots
 title: ZFS easy automated snapshots

@@ -1,7 +1,7 @@
 extends: default.liquid
 author: mike
 comments: true
-date: 2009-07-18 01:28:20+00:00
+date: 18 Jul 2009 01:28:20 +0000
 layout: post
 slug: semester-results-and-testing-repo
 title: Semester results and testing repo.
