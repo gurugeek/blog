@@ -7,7 +7,7 @@
 {% if is_post %}
   <title>{{ title }}</title>
 {% else %}
-  <title>Cobalt.rs Blog</title>
+  <title>sda.io</title>
 {% endif %}
   <meta name="description" content="">
   <meta name="author" content="">
@@ -30,11 +30,13 @@
 
   <!-- Primary Page Layout -->
   <div class="container">
-    <div class="row">
-      <div class="two columns" style="margin-top: 25%">
+    <div class="row" style="margin-top: 10%">
+      <div class="two columns">
         <h2>sda.io</h2>
+        <p>Mike Sampson</p>
+        <p>Linux Systems Administrator</p>
       </div>
-      <div class="ten columns" style="margin-top: 25%">
+      <div class="ten columns">
         {% if is_post %}
           {% include '_layouts/post.liquid' %}
         {% else %}
