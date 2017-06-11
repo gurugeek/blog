@@ -4,6 +4,7 @@ extends: default.liquid
   <div>
     {% for post in posts limit:5 %}
       <div>
+        <h5>{{post.date | date: "%d %b %Y"}}</h5>
         <h4><a href="{{post.path}}">{{ post.title }}</a></h4>
         {{post.content | truncatewords: 25, '...' }}
       </div>
