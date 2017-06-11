@@ -86,14 +86,12 @@ docker rm ${NAME}
 There are a couple of things that need tidying up and/or fixing.
 
  - The Build should output a deb package. I'll look at this at some point.
-
  - As mentioned above the instance creation and file copying stages can be
  simplified. E.g. the hack of running `sleep 900` probably isn't required as you
  can supposedly copy files into a stopped container. The copying itself can be
  improved by using `tar` and excluding the required directories all together to
  avoid removing them at a later point. `docker cp` can take a `tar` stream as
  input.
-
  - The build instance is made fresh each time so Rust hast to download and
  compile libraries each time. This makes the build a little slower though it
  also ensures each build is isolated and not influenced by previous builds in
