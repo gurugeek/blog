@@ -7,3 +7,5 @@ dest: "build"
 ignore:
   - .git/*
   - build/*
+  - README.md
+  - LICENSE.txt
