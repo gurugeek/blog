@@ -15,4 +15,5 @@ Also see:
 - [Twitter](https://twitter.com/mfsampson)
 - [Github](https://github.com/mfs)
 - [LinkedIn](http://au.linkedin.com/in/mfsampson)
+- [Keybase](https://keybase.io/mfs)
 
