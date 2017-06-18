@@ -8,6 +8,7 @@ extends: default.liquid
         <h4><a href="{{post.path}}">{{ post.title }}</a></h4>
         {{post.content | truncatewords: 25, '...' }}
       </div>
+      <hr />
     {% endfor %}
   </div>
 </div>
