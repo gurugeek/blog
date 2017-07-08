@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/mfs
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sda.io
+    * I am mfs (https://keybase.io/mfs) on keybase.
+      * I have a public key with fingerprint F975 5DAC B844 0C68 2A7F  D2E6 AC99
+      AA27 7732 8E5B
+
+      To do so, I am signing this object:
+
+{
+    "body": {
+            "key": {
+                        "eldest_kid":
+                          "0101ca526c5b8178256ef03aaaed2814f372533bbeef111f6885c6a0c6d58ab168080a",
+                        "fingerprint":
+                          "f9755dacb8440c682a7fd2e6ac99aa2777328e5b",
+                        "host": "keybase.io",
+                        "key_id": "ac99aa2777328e5b",
+                        "kid":
+                          "0101ca526c5b8178256ef03aaaed2814f372533bbeef111f6885c6a0c6d58ab168080a",
+                        "uid": "bc6e9dad6ca7fb1414c2762929887900",
+                        "username": "mfs"
+                    },
+            "service": {
+                        "hostname": "sda.io",
+                        "protocol": "https:"
+                    },
+            "type": "web_service_binding",
+            "version": 1
+        },
+    "ctime": 1499482976,
+    "expire_in": 157680000,
+    "prev": "3251693cd910e32320d242db3b5fa18dd47711801f33a829c1563529b0e28589",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.72
+Comment: https://keybase.io/crypto
+
+yMIdAnicrVJbSBVBGD52xVNSPoREF2pDQZLYmb3NnOiKhWSRcRDsxnF2Z1Y3dfe4
+Z7XMRA6RXS0qSiW6YNIFijhZRF66iCXRg09WkBFGGHEgKrAgSps1e+uxeRnmn+/7
+/u/7+XvTJgeCKZ20f8n6p8mmlOePG6sCW4vzi2sF3aE1QqhWKGPjFyunLOZFyiwq
+hAQRiMAgClQNRUdAQ1BRmSlKhBBGIQKyKWlQkSRdZ8wEAJgqQoqhEtFQqYKIDlQk
+IpEIOYJp2SXMjbqW7XFZE2uKQomhI1nmWASJZlLIVGJgTAjUNE2CiCk6J5Y6MZ/B
+zekkxpZZDq/xR2Tc3j/w/9l31bicbqgMU0JVgxvVgQxkA2oqxBAjpGFR9IEx5tqk
+gnF0hRkT6nIEXqi2DObP1A8x8Rmj5E+IqOt4juGU81qp50VjIZ/j1UR90G6mRybo
+Ed2yKR8eZ1QzN2Y5thACHGl4lq8HZIxlBLGm5ghsT9RyWcTyEYrGI/Dj92HVXFKC
+ClCxZFAMRCZBCYoUypDqkq6YBCBKZU0DAInAlCTCBQ2gqJICsS4yiBSEBT9Qpe0I
+IchbeaTEz2KV2MSrcplQ1/Nox5RASjAwbeokf6sCwdTZf3dtGEwfDaWuVFNb2ocW
+3+hummv/OHM/N39o9TktXtpbMLi3uSXz4zup+2Bvf3xXRxh3zlzS9qVwQ0YiWDRv
+/9E5yc2fN8zMXbM0fvFFz7M7A6PSyNlzws5k2pajNdsbDjRW1tZXjj3pudt8be21
+5qutl9/jQrfe/nbKuE8Tn34UFl/HH7Jeuwezz98euFUA2u0rG8+fBDe7Bh/O9xbs
+zaBvdn6/E2h/i5z0Xcsb+rYNfKsrOjav+3T2peFEtKM+P0uFhncot/Fw4szY6Kup
+efu+DjX0jV3ZGtbS7yUXbnoZLPiV93Pavq7+RevSlx5n3eHOtq+ZF2atOrFpxZGC
++IMxXBieMRJuDf0GJYY/BA==
+=g2L8
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mfs
+
+==================================================================
+
