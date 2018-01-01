@@ -1,13 +1,13 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 28 Sep 2009 06:41:00 +0000
-layout: post
-slug: mplayer-and-vdpau
+slug: "mplayer-and-vdpau"
 title: mplayer and vdpau
-wordpress_id: 164
+published_date: "2009-09-28 06:41:00 +0000"
+layout: default.liquid
+data:
+  layout: post
+  wordpress_id: 164
+  author: admin
+  comments: true
 ---
-
 Just compiled mplayer with vdpau to make use of my nVidia 8600GT. On Arch Linux this is as simple as using ABS to rebuild the stock mplayer from extra. mplayer autodetects all supported features during configuration. The only issue I had was a linking error with libgif which was installed. Adding --disable-gif to the PKGBUILD fixed this. Then I added:
 
 `vo=vdpau,xv,

@@ -1,9 +1,9 @@
-extends: default.liquid
-layout: post
-title: "Planck Firmware"
-date: 16 Aug 2017 20:50:00 +1000
+title: Planck Firmware
+published_date: "2017-08-16 20:50:00 +1000"
+layout: default.liquid
+data:
+  layout: post
 ---
-
 As mentioned in my previous [post](/posts/2017-08-01-planck-build.html) I have
 recently started using a [Planck][0] keyboard. The Planck uses Open Source
 [firmware][1] and customizing the firmware is a key part of making a keyboard

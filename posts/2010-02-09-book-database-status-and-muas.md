@@ -1,13 +1,13 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 09 Feb 2010 03:37:02 +0000
-layout: post
-slug: book-database-status-and-muas
+slug: "book-database-status-and-muas"
 title: Book database status and MUAs.
-wordpress_id: 261
+published_date: "2010-02-09 03:37:02 +0000"
+layout: default.liquid
+data:
+  comments: true
+  wordpress_id: 261
+  author: admin
+  layout: post
 ---
-
 Have felt like a little break from my [book database](http://blog.sambodata.com/?p=245) project. It needs one more weekend of polishing before it is usable. Hopefully I will get it done this weekend as it is the last weekend before it's back to the books.
 
 I have been looking at MUAs recently and can't really find one that fits my needs exactly. [Sup](http://sup.rubyforge.org/) is probably the closest but I am not a huge fan of Ruby. Emacs' [RMail](http://www.gnu.org/software/emacs/manual/html_node/emacs/Rmail.html) and [VM](http://www.nongnu.org/viewmail/) are interesting. RMail feels a little primitive. VM looks very nice but I don't like how it adds a bunch of headers to the message. Not sure if you can turn this off or not. Both RMail and VM do support tags/labels though. I'm currently using Google Apps and have become quite used to labels and am not sure I could now do without them. After giving it some thought I have started throwing together an MUA prototype in Python. The features of an ideal MUA for **me** would be:

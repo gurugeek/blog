@@ -1,6 +1,5 @@
-extends: default.liquid
+layout: default.liquid
 ---
-
 ## iproute2 cheat sheet
 
 

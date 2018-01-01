@@ -1,6 +1,5 @@
-extends: default.liquid
+layout: default.liquid
 ---
-
 ## Welcome
 
 I am Mike Sampson, a Linux Systems Administrator based in Sydney, Australia.

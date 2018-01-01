@@ -1,15 +1,15 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 10 Jan 2010 12:43:49 +0000
-layout: post
-slug: book-database-and-git
+slug: "book-database-and-git"
 title: Book Database and Git
-wordpress_id: 245
 categories:
-- Linux
+  - Linux
+published_date: "2010-01-10 12:43:49 +0000"
+layout: default.liquid
+data:
+  layout: post
+  comments: true
+  author: admin
+  wordpress_id: 245
 ---
-
 I haven't posted anything since before the end of year holidays as I have been
 busy with a project. I have always wanted a simple database application to
 manage my book collection. I have previously started work on a web based

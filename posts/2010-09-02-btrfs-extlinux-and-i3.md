@@ -1,16 +1,16 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 02 Sep 2010 05:24:56 +0000
-layout: post
-slug: btrfs-extlinux-and-i3
-title: BTRFS, EXTLINUX and i3.
-wordpress_id: 351
+slug: "btrfs-extlinux-and-i3"
+title: "BTRFS, EXTLINUX and i3."
 categories:
-- Arch
-- Linux
+  - Arch
+  - Linux
+published_date: "2010-09-02 05:24:56 +0000"
+layout: default.liquid
+data:
+  wordpress_id: 351
+  author: admin
+  layout: post
+  comments: true
 ---
-
 Lately I have been experimenting with some of the netbook specific Linux distros
 on my Dell Mini 9. I looked at [Moblin][0], [ChromeOS][1], [Ubuntu Netbook
 Remix][2] and [Jolicloud][3]. They were all fairly impressive though I did miss

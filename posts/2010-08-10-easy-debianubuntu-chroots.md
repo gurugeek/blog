@@ -1,17 +1,17 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 10 Aug 2010 10:56:08 +0000
-layout: post
-slug: easy-debianubuntu-chroots
+slug: "easy-debianubuntu-chroots"
 title: Easy Debian/Ubuntu chroots.
-wordpress_id: 344
 categories:
-- Arch
-- Debian
-- Linux
+  - Arch
+  - Debian
+  - Linux
+published_date: "2010-08-10 10:56:08 +0000"
+layout: default.liquid
+data:
+  wordpress_id: 344
+  author: admin
+  layout: post
+  comments: true
 ---
-
 Until recently I had been using Adobe's 64 bit Flash Player plugin.
 Unfortunately the 64 bit Flash Player has been [removed from Adobe's site][0]
 with no clear indication of exactly when it will return. For a while I continued

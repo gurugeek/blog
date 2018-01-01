@@ -1,13 +1,13 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 12 Sep 2009 05:06:08 +0000
-layout: post
-slug: britain-says-sorry-to-computing-pioneer-alan-turing
+slug: "britain-says-sorry-to-computing-pioneer-alan-turing"
 title: Britain says sorry to computing pioneer Alan Turing
-wordpress_id: 130
+published_date: "2009-09-12 05:06:08 +0000"
+layout: default.liquid
+data:
+  comments: true
+  layout: post
+  wordpress_id: 130
+  author: admin
 ---
-
 The British government has finally apologised to the late [Alan Turing](http://en.wikipedia.org/wiki/Alan_turing). For anyone not familiar with the name his achievements in the area of computer science, mathematics and cryptography are numerous. He was a man who gave his country everything and in return his country took everything from him. Better late than never I guess.
 
 

@@ -1,13 +1,13 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 05 Apr 2010 03:15:41 +0000
-layout: post
-slug: btrfsrsync-based-backups
+slug: "btrfsrsync-based-backups"
 title: BTRFS/RSYNC based backups.
-wordpress_id: 304
+published_date: "2010-04-05 03:15:41 +0000"
+layout: default.liquid
+data:
+  author: admin
+  layout: post
+  wordpress_id: 304
+  comments: true
 ---
-
 As mentioned previously I have recently converted my file server to Linux from Open Solaris and ZFS. I was using ZFS's snapshot capability extensively. My main storage zpool used snapshots to provide read only previous versions of files and my backup zpool used snapshots to provide space efficient read only backups. I wanted something similar in Linux using either rsync with hard links or rsync with btrfs. I decided to try rsync with btrfs.
 
 Btrfs is still far from complete though progress is being made quickly. The btrfs wiki does however state:

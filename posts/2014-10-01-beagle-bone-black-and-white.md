@@ -1,11 +1,10 @@
-extends: default.liquid
-layout: post
 title: "BeagleBone - Black and White"
-date: 12 Oct 2014 19:13:33 +1000
-comments: true
-categories: Linux
+published_date: "2014-10-12 19:13:33 +1000"
+layout: default.liquid
+data:
+  comments: true
+  layout: post
 ---
-
 While the Raspberry Pi is the most well known of the ARM based single board
 computers there are other alternatives available. One such alternative is the
 BeagleBone. The BeagleBone comes in two varieties which differ in a couple

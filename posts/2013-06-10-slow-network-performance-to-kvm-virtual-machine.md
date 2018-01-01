@@ -1,13 +1,13 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 10 Jun 2013 10:10:53 +0000
-layout: post
-slug: slow-network-performance-to-kvm-virtual-machine
+slug: "slow-network-performance-to-kvm-virtual-machine"
 title: Slow network performance to KVM virtual machine.
-wordpress_id: 554
+published_date: "2013-06-10 10:10:53 +0000"
+layout: default.liquid
+data:
+  author: admin
+  wordpress_id: 554
+  layout: post
+  comments: true
 ---
-
 I'm currently using a KVM virtual machine as my primary file/media server. Since
 I have been using a virtual machine as my file server I have witnessed strange
 stalls in media playback when accessing media files via a NFS share. Media files

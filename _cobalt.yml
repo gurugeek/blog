@@ -1,0 +1,35 @@
+source: "./"
+destination: build
+include_drafts: false
+default:
+  excerpt_separator: "\n\n"
+  is_draft: false
+pages:
+  default: {}
+posts:
+  title: ~
+  description: ~
+  dir: posts
+  drafts_dir: _drafts
+  order: Desc
+  rss: rss.xml
+  jsonfeed: ~
+  default: {}
+site:
+  title: sda.io
+  description: My Journal of tech projects and other random things.
+  base_url: "http://sda.io"
+  data: ~
+template_extensions:
+  - md
+  - liquid
+ignore:
+  - ".git/*"
+  - "build/*"
+  - README.md
+  - LICENSE.txt
+syntax_highlight:
+  theme: "base16-ocean.dark"
+assets:
+  sass:
+    style: Nested

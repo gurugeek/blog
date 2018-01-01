@@ -1,15 +1,15 @@
-extends: default.liquid
-author: mike
-comments: true
-date: 27 Jun 2009 11:45:13 +0000
-layout: post
-slug: windows-7-stickies-and-ikog
+slug: "windows-7-stickies-and-ikog"
 title: Windows 7 Stickies and iKog
-wordpress_id: 36
 categories:
-- Linux
+  - Linux
+published_date: "2009-06-27 11:45:13 +0000"
+layout: default.liquid
+data:
+  layout: post
+  author: mike
+  wordpress_id: 36
+  comments: true
 ---
-
 My work machine is currently running Windows 7. One of the features of Windows 7
 I have been using is [Sticky
 Notes](http://windows.microsoft.com/en-us/windows7/products/features/sticky-notes).

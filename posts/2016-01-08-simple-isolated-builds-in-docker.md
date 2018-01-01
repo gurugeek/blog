@@ -1,11 +1,14 @@
-extends: default.liquid
-layout: post
-title: "Simple Isolated Builds in Docker"
-date: 08 Jan 2016 01:52:25 +1100
-comments: true
-categories: [Linux, Docker, Rust]
+title: Simple Isolated Builds in Docker
+categories:
+  - Linux
+  - Docker
+  - Rust
+published_date: "2016-01-08 01:52:25 +1100"
+layout: default.liquid
+data:
+  layout: post
+  comments: true
 ---
-
 I needed a simple, automated way to build a Rust project for deployment to a
 Debian system. Docker seems to be popular for deploying though I'm using it as a
 chroot with a nice CLI. Eventually I would like the build product to be a deb

@@ -1,16 +1,16 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 21 Sep 2009 10:18:26 +0000
-layout: post
-slug: haskell-far-from-a-hacker-but-making-progress
+slug: "haskell-far-from-a-hacker-but-making-progress"
 title: Haskell. Far from a hacker but making progress.
-wordpress_id: 148
 categories:
-- Haskell
-- xmonad
+  - Haskell
+  - xmonad
+published_date: "2009-09-21 10:18:26 +0000"
+layout: default.liquid
+data:
+  wordpress_id: 148
+  layout: post
+  author: admin
+  comments: true
 ---
-
 Have been playing around with my xmonad.hs file and have come up with my first
 bit of original Haskell though I have seen something similar in the config
 archive. Since I have been using xmonad I have been using something like this

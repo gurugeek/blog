@@ -1,11 +1,11 @@
-extends: default.liquid
+layout: default.liquid
 ---
 <div >
   <div>
-    {% for post in posts limit:5 %}
+    {% for post in collections.posts.pages limit:5 %}
       <div>
-        <h5>{{post.date | date: "%d %b %Y"}}</h5>
-        <h4><a href="{{post.path}}">{{ post.title }}</a></h4>
+        <h5>{{ post.published_date | date: "%d %b %Y"}}</h5>
+        <h4><a href="{{ post.permalink }}">{{ post.title }}</a></h4>
         {{post.content | truncatewords: 25, '...' }}
       </div>
       <hr />

@@ -1,11 +1,10 @@
-extends: default.liquid
-layout: post
-title: "Enabling SPDY in nginx on Debian Wheezy"
-date: 26 Apr 2014 13:35:45 +1000
-comments: true
-categories: Linux
+title: Enabling SPDY in nginx on Debian Wheezy
+published_date: "2014-04-26 13:35:45 +1000"
+layout: default.liquid
+data:
+  comments: true
+  layout: post
 ---
-
 The default nginx packages on Debian Wheezy are 1.2.1 which don't include
 [SPDY][5] support. There are a couple of options here:
 

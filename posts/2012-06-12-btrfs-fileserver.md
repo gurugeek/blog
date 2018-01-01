@@ -1,17 +1,17 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 12 Jun 2012 10:37:19 +0000
-layout: post
-slug: btrfs-fileserver
+slug: "btrfs-fileserver"
 title: BTRFS Fileserver
-wordpress_id: 484
 categories:
-- btrfs
-- Hardware
-- Linux
+  - btrfs
+  - Hardware
+  - Linux
+published_date: "2012-06-12 10:37:19 +0000"
+layout: default.liquid
+data:
+  layout: post
+  wordpress_id: 484
+  comments: true
+  author: admin
 ---
-
 ## Introduction
 
 

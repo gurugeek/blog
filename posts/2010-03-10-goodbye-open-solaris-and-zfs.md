@@ -1,18 +1,18 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 10 Mar 2010 13:42:54 +0000
-layout: post
-slug: goodbye-open-solaris-and-zfs
+slug: "goodbye-open-solaris-and-zfs"
 title: Goodbye Open Solaris and ZFS.
-wordpress_id: 276
 categories:
-- Arch
-- Hardware
-- Linux
-- OpenSolaris
+  - Arch
+  - Hardware
+  - Linux
+  - OpenSolaris
+published_date: "2010-03-10 13:42:54 +0000"
+layout: default.liquid
+data:
+  comments: true
+  wordpress_id: 276
+  author: admin
+  layout: post
 ---
-
 As the title of the post states I have recently decommissioned my Open Solaris ZFS based file server. I have now combined my file server with my workstation. There are several reasons why I have done this:
 
 
