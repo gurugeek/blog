@@ -26,6 +26,7 @@ of key areas. See the below feature matrix:
         <td>Yes</td>
         <td>No</td>
     </tr>
+    <tr>
         <th>Boot</th>
         <td>Micro SD</td>
         <td>Micro SD or 2GB eMMC</td>
