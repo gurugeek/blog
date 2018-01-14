@@ -1,9 +1,9 @@
-extends: default.liquid
-layout: post
-title: "Planck Build"
-date: 01 Aug 2017 20:50:00 +1000
+title: Planck Build
+published_date: "2017-08-01 20:50:00 +1000"
+layout: default.liquid
+data:
+  layout: post
 ---
-
 I have recently become interested in compact keyboards. In particular the
 [Planck][0]. The Planck is unusual in many ways.
 

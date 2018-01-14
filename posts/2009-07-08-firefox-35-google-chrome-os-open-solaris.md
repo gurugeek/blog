@@ -1,16 +1,16 @@
-extends: default.liquid
-author: mike
-comments: true
-date: 08 Jul 2009 12:29:00 +0000
-layout: post
-slug: firefox-35-google-chrome-os-open-solaris
-title: Firefox 3.5, Google Chrome OS, Open Solaris
-wordpress_id: 49
+slug: "firefox-35-google-chrome-os-open-solaris"
+title: "Firefox 3.5, Google Chrome OS, Open Solaris"
 categories:
-- Arch
-- Linux
+  - Arch
+  - Linux
+published_date: "2009-07-08 12:29:00 +0000"
+layout: default.liquid
+data:
+  author: mike
+  wordpress_id: 49
+  layout: post
+  comments: true
 ---
-
 It's been a busy week in the open source world.
 
 Currently running the new [Firefox 3.5](http://www.mozilla.com/en-US/firefox/3.5/releasenotes/). It is hard to be objective but it does seem to be faster than the 3.0.x versions. Unfortunately my current theme, [Full Flat 3.0](https://addons.mozilla.org/en-US/firefox/addon/6971), is not compatible with Firefox 3.5 so I have had to find another theme. At the moment I am using [Chromifox Basic](https://addons.mozilla.org/en-US/firefox/addon/8782) and am pretty happy with it. I have also been using the [Hide Menubar](https://addons.mozilla.org/en-US/firefox/addon/4762) add-on. It is a great way to gain a little bit more screen real estate and works well with a minimal tiling window manager.

@@ -1,15 +1,15 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 10 Apr 2010 06:51:28 +0000
-layout: post
-slug: linux-conf-au-presentation-videos
+slug: "linux-conf-au-presentation-videos"
 title: linux.conf.au presentation videos
-wordpress_id: 312
 categories:
-- Linux
+  - Linux
+published_date: "2010-04-10 06:51:28 +0000"
+layout: default.liquid
+data:
+  wordpress_id: 312
+  comments: true
+  author: admin
+  layout: post
 ---
-
 I recently came across some videos for [2010's linux.conf.au presentations][0].
 I haven't watched all of them however a couple of them look interesting. One
 that I have watched is **Going mad with MDADM**. I learnt a few things from this

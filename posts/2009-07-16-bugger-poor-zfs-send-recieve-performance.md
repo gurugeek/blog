@@ -1,15 +1,15 @@
-extends: default.liquid
-author: mike
-comments: true
-date: 16 Jul 2009 17:18:48 +0000
-layout: post
-slug: bugger-poor-zfs-send-recieve-performance
+slug: "bugger-poor-zfs-send-recieve-performance"
 title: Poor ZFS send recieve performance.
-wordpress_id: 77
 categories:
-- OpenSolaris
+  - OpenSolaris
+published_date: "2009-07-16 17:18:48 +0000"
+layout: default.liquid
+data:
+  comments: true
+  wordpress_id: 77
+  layout: post
+  author: mike
 ---
-
 Before installing OpenSolaris on my file server while I was running Linux I
 noticed weird behaviour with the on board USB 2.0 controller of my ASUS A7V333.
 For some reason I was only getting USB 1.1 transfer speeds with an external USB

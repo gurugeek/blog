@@ -1,17 +1,17 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 10 Jun 2011 08:49:46 +0000
-layout: post
-slug: arch-linux-net-tools-depreciated
-title: Arch Linux net-tools depreciated.
-wordpress_id: 460
+slug: "arch-linux-net-tools-depreciated"
+title: "Arch Linux net-tools depreciated."
 categories:
-- Arch
-- IPv6
-- Linux
+  - Arch
+  - IPv6
+  - Linux
+published_date: "2011-06-10 08:49:46 +0000"
+layout: default.liquid
+data:
+  layout: post
+  comments: true
+  author: admin
+  wordpress_id: 460
 ---
-
 Arch Linux has depreciated the usage of net-tools in `/etc/rc.conf` in favor of
 iproute2. The new syntax in `/etc/rc.conf` makes it simple to setup a single
 interface though anything complicated is best done through netcfg. I didn't

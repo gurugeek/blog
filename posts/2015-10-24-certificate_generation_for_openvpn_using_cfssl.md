@@ -1,11 +1,10 @@
-extends: default.liquid
-layout: post
-title: "Certificate Generation for OpenVPN using CFSSL"
-date: 24 Oct 2015 20:43:01 +1100
-comments: true
-categories: Linux Security
+title: Certificate Generation for OpenVPN using CFSSL
+published_date: "2015-10-24 20:43:01 +1100"
+layout: default.liquid
+data:
+  layout: post
+  comments: true
 ---
-
 In the past when I have needed certificates for OpenVPN I have used easy\_rsa.
 Another option would be to use OpenSSL directly. This time I decided to try
 CFSSL. [CFSSL][cfssl] is a PKI toolkit from [CloudFlare][cf] that can function as an

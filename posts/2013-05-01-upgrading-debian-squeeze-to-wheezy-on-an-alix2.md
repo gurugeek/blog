@@ -1,16 +1,16 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 01 May 2013 10:47:39 +0000
-layout: post
-slug: upgrading-debian-squeeze-to-wheezy-on-an-alix2
+slug: "upgrading-debian-squeeze-to-wheezy-on-an-alix2"
 title: Upgrading Debian Squeeze to Wheezy on an ALIX2.
-wordpress_id: 550
 categories:
-- Debian
-- Linux
+  - Debian
+  - Linux
+published_date: "2013-05-01 10:47:39 +0000"
+layout: default.liquid
+data:
+  comments: true
+  author: admin
+  layout: post
+  wordpress_id: 550
 ---
-
 The last machine on my home network still running Debian Squeeze was my [PC
 Engines ALIX2][0] based router. The ALIX2 doesn't have any video output though
 it does send all bios output to the serial port. I also configured grub, the

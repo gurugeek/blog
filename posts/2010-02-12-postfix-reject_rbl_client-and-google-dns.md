@@ -1,13 +1,13 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 12 Feb 2010 11:01:34 +0000
-layout: post
-slug: postfix-reject_rbl_client-and-google-dns
-title: Postfix, reject_rbl_client and Google DNS
-wordpress_id: 270
+slug: "postfix-reject_rbl_client-and-google-dns"
+title: "Postfix, reject_rbl_client and Google DNS"
+published_date: "2010-02-12 11:01:34 +0000"
+layout: default.liquid
+data:
+  author: admin
+  comments: true
+  layout: post
+  wordpress_id: 270
 ---
-
 Just spent 30 minutes trying to work out why Postfix was not rejecting mail using the zen.spamhaus.org DNSBL. I finally found the answer in my postfix-users mailing list archives.
 
 I was using [Google Public DNS](http://code.google.com/speed/public-dns/). [Spamhaus.org](http://www.spamhaus.org/) simply returns NXDOMAIN for all queries from Google's Public DNS servers. I quickly setup [pdns-recursor](http://wiki.powerdns.com/trac) and the test message was correctly blocked.

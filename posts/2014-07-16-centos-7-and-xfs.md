@@ -1,11 +1,10 @@
-extends: default.liquid
-layout: post
-title: "CentOS 7 and XFS"
-date: 16 Jul 2014 19:20:19 +1000
-comments: true
-categories: Linux CentOS
+title: CentOS 7 and XFS
+published_date: "2014-07-16 19:20:19 +1000"
+layout: default.liquid
+data:
+  comments: true
+  layout: post
 ---
-
 CentOS 7 has been out for a while now and brings a couple of notable new
 features. Two of the main changes to previous versions is systemd and XFS as the
 default file system. If you are like me you probably just did a default install

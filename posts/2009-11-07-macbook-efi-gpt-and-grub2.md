@@ -1,17 +1,17 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 07 Nov 2009 08:01:38 +0000
-layout: post
-slug: macbook-efi-gpt-and-grub2
-title: Macbook, EFI, GPT and Grub2
-wordpress_id: 179
+slug: "macbook-efi-gpt-and-grub2"
+title: "Macbook, EFI, GPT and Grub2"
 categories:
-- Arch
-- Hardware
-- Linux
+  - Arch
+  - Hardware
+  - Linux
+published_date: "2009-11-07 08:01:38 +0000"
+layout: default.liquid
+data:
+  comments: true
+  author: admin
+  layout: post
+  wordpress_id: 179
 ---
-
 As mentioned [earlier](http://blog.sambodata.com/?p=172) I am currently using a MacBook (3.1) as my main laptop. Everything is working fine except there is a noticeable delay when the machine is turned on until the boot loader, grub 0.97, appears. It is not a huge hassle but it is a little irritating. I wanted to setup lvm on my laptop so I took the opportunity to play around to try to remove this delay. Unfortunately I was not successful.
 
 I found an interesting [blog post](http://blog.christophersmart.com/2009/07/23/linux-on-an-apple-xserve-efi-only-machine/) describing the Mac EFI boot process. Using this as a guide I used parted to repartition sda as a GPT disk. I then created an EFI System Partition formatted as fat32. Inside this partition I created the required /efi/boot directory structure. I downloaded the latest Grub2 and compiled it as an EFI executable and installed it and all it's required modules along with a linux kernel into the /efi/boot directory.

@@ -1,15 +1,15 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 24 Nov 2009 09:20:04 +0000
-layout: post
-slug: vim-outliner
+slug: "vim-outliner"
 title: VimOutliner
-wordpress_id: 217
 categories:
-- Linux
+  - Linux
+published_date: "2009-11-24 09:20:04 +0000"
+layout: default.liquid
+data:
+  wordpress_id: 217
+  author: admin
+  layout: post
+  comments: true
 ---
-
 A while back I published a post regarding [todo lists](http://blog.sambodata.com/?p=36).
 It has been a while but I have finally
 found a todo list manager. That is [VimOutliner](http://www.vimoutliner.org/).

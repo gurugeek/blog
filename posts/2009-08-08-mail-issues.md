@@ -1,15 +1,15 @@
-extends: default.liquid
-author: mike
-comments: true
-date: 08 Aug 2009 09:29:13 +0000
-layout: post
-slug: mail-issues
+slug: "mail-issues"
 title: Mail Issues.
-wordpress_id: 98
 categories:
-- mail
+  - mail
+published_date: "2009-08-08 09:29:13 +0000"
+layout: default.liquid
+data:
+  layout: post
+  author: mike
+  comments: true
+  wordpress_id: 98
 ---
-
 Bugger! Recently noticed I'm not receiving email sent from my WordPress install. Password resets, comment notifications, etc. They work fine when sent to my ISP and work email addresses but not my personal email address. Both my personal and work email addresses are hosted via Google Apps. Work's is a premier package whereas mine is the free service.
 
 My shared host has also been blacklisted at [backscatterer.org](http://www.backscatterer.org). Not sure if this is connected or not. This is a pain. In addition my hosting provider seems to be having trouble with their client portal so I can't log a ticket.

@@ -1,16 +1,16 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 23 Jun 2010 12:20:22 +0000
-layout: post
-slug: exams-over-for-another-semester
+slug: "exams-over-for-another-semester"
 title: Exams over for another semester.
-wordpress_id: 327
 categories:
-- Arch
-- Linux
+  - Arch
+  - Linux
+published_date: "2010-06-23 12:20:22 +0000"
+layout: default.liquid
+data:
+  author: admin
+  layout: post
+  wordpress_id: 327
+  comments: true
 ---
-
 I haven't had a chance to post much in the last month as study has kept me fairly busy. My last exam was last Friday and I am now waiting for my results due out early next month. In the mean time I am enjoying having some time to relax.
 
 The Arch Linux devs have been busy of late with a couple of significant updates coming down the pipe, most notably kernel 2.6.34 and Xorg 1.8. As usual the upgrade was painless thanks to the developers and [testing] users. I have been looking forward to 2.6.34 due to it's [new btrfs capabilities](http://kernelnewbies.org/LinuxChanges#head-98c8fb9d359cfbdd4a10bdc0c9d2d168b4c9ebb3). I also took the opportunity with the Xorg 1.8 update to disable hal and reduce my Xorg.conf down to the minimum required to work with my nVidia 8600GT using the nVidia binary blob with twinview enabled. I managed to get it down to a single "Screen" section of 15 lines and may be able to reduce it a bit more.

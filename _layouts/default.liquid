@@ -4,8 +4,8 @@
 
   <!-- Basic Page Needs -->
   <meta charset="utf-8">
-{% if is_post %}
-  <title>{{ title }}</title>
+{% if page.collection == "posts" %}
+  <title>{{ page.title }}</title>
 {% else %}
   <title>sda.io</title>
 {% endif %}
@@ -40,10 +40,10 @@
         <p><a href="/rss.xml">Feed</a></p>
       </div>
       <div class="ten columns">
-        {% if is_post %}
-          {% include '_layouts/post.liquid' %}
+        {% if page.collection == "posts" %}
+          {% include "post.liquid" %}
         {% else %}
-          {{ content }}
+          {{ page.content }}
         {% endif %}
       </div>
     </div>

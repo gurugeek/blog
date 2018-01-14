@@ -1,15 +1,15 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 17 Nov 2009 09:31:42 +0000
-layout: post
-slug: end-of-semester
+slug: "end-of-semester"
 title: End of Semester.
-wordpress_id: 193
 categories:
-- Linux
+  - Linux
+published_date: "2009-11-17 09:31:42 +0000"
+layout: default.liquid
+data:
+  layout: post
+  comments: true
+  wordpress_id: 193
+  author: admin
 ---
-
 Have exams the next two days. Internet Security tomorrow and Knowledge Management the day after. Currently cramming for these and doing little else. Will be glad to get these over with and have a break from study and get some things done that I have been putting off or haven't had time to do:
 
 

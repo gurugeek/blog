@@ -1,15 +1,15 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 23 Aug 2009 11:36:28 +0000
-layout: post
-slug: backups-more-usb-issues-and-dexter
-title: Backups, more USB issues and Dexter!
-wordpress_id: 113
+slug: "backups-more-usb-issues-and-dexter"
+title: "Backups, more USB issues and Dexter!"
 categories:
-- OpenSolaris
+  - OpenSolaris
+published_date: "2009-08-23 11:36:28 +0000"
+layout: default.liquid
+data:
+  comments: true
+  wordpress_id: 113
+  layout: post
+  author: admin
 ---
-
 With automatic snapshots working I spent time this weekend getting backups working. Initially I thought that a solution based on ZFS's send, receive commands would be the way to go however after thinking of how this would work I couldn't see a clean way of doing this. This is possibly due to my lack of understanding and experience with ZFS though I felt a little better when I read the [ZFS Best Practices Guide](http://www.solarisinternals.com/wiki/index.php/ZFS_Best_Practices_Guide#ZFS_Backup_.2F_Restore_Recommendations).
 
 

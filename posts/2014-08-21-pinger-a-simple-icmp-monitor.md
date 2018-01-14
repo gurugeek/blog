@@ -1,11 +1,10 @@
-extends: default.liquid
-layout: post
 title: "Pinger - A simple ICMP monitor."
-date: 21 Aug 2014 21:17:23 +1000
-comments: true
-categories: Linux Python
+published_date: "2014-08-21 21:17:23 +1000"
+layout: default.liquid
+data:
+  comments: true
+  layout: post
 ---
-
 When it comes to monitoring hosts, most people go with [Nagios][0] or similar.
 Nagios is great, can monitor pretty much most standard services out of the box
 and is easily extendible. For my home network I really just wanted a simple ICMP

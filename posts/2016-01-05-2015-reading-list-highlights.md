@@ -1,11 +1,14 @@
-extends: default.liquid
-layout: post
-title: "2015 Reading List Highlights"
-date: 01 Jan 2016 14:24:46 +1100
-comments: true
-categories: [Books, Linux, Security]
+title: 2015 Reading List Highlights
+categories:
+  - Books
+  - Linux
+  - Security
+published_date: "2016-01-01 14:24:46 +1100"
+layout: default.liquid
+data:
+  comments: true
+  layout: post
 ---
-
 Here are most of the books I read in 2015.
 
 #### Fiction

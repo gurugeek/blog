@@ -1,12 +1,12 @@
-extends: default.liquid
-layout: post
-title: "Octopress and the Eudyptula Challenge"
-date: 01 Apr 2014 21:56:07 +1100
-comments: true
+title: Octopress and the Eudyptula Challenge
 categories:
-- Linux
+  - Linux
+published_date: "2014-04-01 21:56:07 +1100"
+layout: default.liquid
+data:
+  comments: true
+  layout: post
 ---
-
 I have been really slack with updating my Blog. Three posts last year and this
 is my first post this year. I have been quite busy with a new job, getting used
 to a new city, etc. I don't feel *too* guilty.

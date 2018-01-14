@@ -1,16 +1,16 @@
-extends: default.liquid
-author: mike
-comments: true
-date: 02 Jul 2009 11:20:05 +0000
-layout: post
-slug: new-router
-title: New Router, dnsmasq and Jeff Golblum!
-wordpress_id: 43
+slug: "new-router"
+title: "New Router, dnsmasq and Jeff Golblum!"
 categories:
-- Debian
-- Linux
+  - Debian
+  - Linux
+published_date: "2009-07-02 11:20:05 +0000"
+layout: default.liquid
+data:
+  wordpress_id: 43
+  author: mike
+  comments: true
+  layout: post
 ---
-
 I'm currently running a combined router and file server. In the interests of security I'm in the process of setting up a new router. I'm installing [Debian](http://debian.org/) Lenny on the router as it doesn't get rebooted often (in the past it has gone over a year without being rebooted) and a rolling release distribution such as Arch doesn't suit this usage pattern.
 
 I normally use [dhcpd](https://www.isc.org/downloadables/12) and [bind](https://www.isc.org/software/bind) for serving up dhcp and dns but this time tried [dnsmasq](http://www.thekelleys.org.uk/dnsmasq/doc.html). Dnsmasq is described on it's webpage as:

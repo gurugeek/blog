@@ -1,17 +1,17 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 26 Jul 2010 11:42:38 +0000
-layout: post
-slug: native-resolution-console-with-the-binary-nvidia-blob
+slug: "native-resolution-console-with-the-binary-nvidia-blob"
 title: Native resolution console with the binary nVidia blob.
-wordpress_id: 339
 categories:
-- Arch
-- Hardware
-- Linux
+  - Arch
+  - Hardware
+  - Linux
+published_date: "2010-07-26 11:42:38 +0000"
+layout: default.liquid
+data:
+  layout: post
+  comments: true
+  author: admin
+  wordpress_id: 339
 ---
-
 My first serious graphics card was a Canopus Pure3D which was based on [3dfx's Voodoo](http://en.wikipedia.org/wiki/3dfx) chipset. It was a strange beast as it installed in addition to the 2D graphics card and interfaced via a pass-through VGA cable. I purchased it solely to play id's GLQuake. When it came time to upgrade I went for a Diamond Viper V770 which was based on the [nVidia RIVA TNT2](http://en.wikipedia.org/wiki/Tnt2) chipset. Since that day I have always used nVidia graphic cards, except for laptops where nVidia was not an option, and am currently using a Geforce 8600GT.
 
 While I have always been happy with nVidia there are some downsides to using nVidia cards in Linux. If you want decent 3D performance you need to use the propriety nVidia binary blob which means you miss out on KMS and have to deal with an out of tree kernel module and a tainted kernel. For the moment I am willing to do this though when it comes time to update again it may be time to look at ATI or perhaps the nouveau project will have attained decent 3D performance by then.

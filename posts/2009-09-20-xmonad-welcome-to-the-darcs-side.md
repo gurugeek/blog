@@ -1,16 +1,16 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 20 Sep 2009 10:50:28 +0000
-layout: post
-slug: xmonad-welcome-to-the-darcs-side
+slug: "xmonad-welcome-to-the-darcs-side"
 title: XMonad. Welcome to the Darcs side.
-wordpress_id: 138
 categories:
-- Arch
-- Linux
+  - Arch
+  - Linux
+published_date: "2009-09-20 10:50:28 +0000"
+layout: default.liquid
+data:
+  wordpress_id: 138
+  layout: post
+  author: admin
+  comments: true
 ---
-
 I have been using [xmonad](http://xmonad.org/) as my window manager for quite a
 while now. I use it on a dual screen workstation, my laptop and a netbook and in
 each case it does the job flawlessly. It is insanely stable and for this reason

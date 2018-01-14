@@ -1,15 +1,15 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 18 Aug 2009 11:48:29 +0000
-layout: post
-slug: zfs-easy-snapshots
+slug: "zfs-easy-snapshots"
 title: ZFS easy automated snapshots
-wordpress_id: 99
 categories:
-- OpenSolaris
+  - OpenSolaris
+published_date: "2009-08-18 11:48:29 +0000"
+layout: default.liquid
+data:
+  layout: post
+  author: admin
+  comments: true
+  wordpress_id: 99
 ---
-
 I have enabled auto snapshots on my OpenSolaris file server. This was easy due
 to the already installed **SUNWzfs-auto-snapshot** package. First step is to
 enable the required snapshot frequencies:

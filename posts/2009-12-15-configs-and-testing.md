@@ -1,13 +1,13 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 15 Dec 2009 10:23:55 +0000
-layout: post
-slug: configs-and-testing
-title: Configs and [testing].
-wordpress_id: 235
+slug: "configs-and-testing"
+title: "Configs and [testing]."
+published_date: "2009-12-15 10:23:55 +0000"
+layout: default.liquid
+data:
+  author: admin
+  layout: post
+  comments: true
+  wordpress_id: 235
 ---
-
 As mentioned [earlier](http://blog.sambodata.com/?p=227) I have finally put most of my configs into a public git repo. After using it for a couple of weeks or so I don't know how I lived without it. It is so handy to have the same aliases, vimrc, xmonad.hs, etc on every machine I use. I use a simple BASH script to manage a set of symbolic links to the actual configs. Thanks to this setup I can download and install my configs using two simple commands:
 
 `git clone <url>

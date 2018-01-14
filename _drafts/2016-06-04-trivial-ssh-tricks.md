@@ -1,11 +1,13 @@
-extends: default.liquid
-layout: post
-title: "Trivial SSH tricks"
-date: 04 Jun 2016 20:49:44 +1000
-comments: true
-categories: [Linux, SSH]
+title: Trivial SSH tricks
+categories:
+  - Linux
+  - SSH
+published_date: "2016-06-04 20:49:44 +1000"
+layout: default.liquid
+data:
+  comments: true
+  layout: post
 ---
-
 As a System Administrator I use SSH all the time. These are a couple of
 tricks/techniques I use which I wasn't always aware of. SSH can do many things,
 the man page is worth a read.

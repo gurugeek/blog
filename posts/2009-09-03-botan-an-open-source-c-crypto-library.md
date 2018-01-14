@@ -1,15 +1,15 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 03 Sep 2009 12:16:41 +0000
-layout: post
-slug: botan-an-open-source-c-crypto-library
-title: Botan - an open source C++ crypto library.
-wordpress_id: 124
+slug: "botan-an-open-source-c-crypto-library"
+title: "Botan - an open source C++ crypto library."
 categories:
-- Linux
+  - Linux
+published_date: "2009-09-03 12:16:41 +0000"
+layout: default.liquid
+data:
+  comments: true
+  wordpress_id: 124
+  layout: post
+  author: admin
 ---
-
 Currently working on an assignment for my Internet Security unit and needed an
 open source crypto library. Had a look at a couple I already had installed on my
 workstation and a couple of others including:

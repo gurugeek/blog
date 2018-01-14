@@ -1,16 +1,16 @@
-extends: default.liquid
-author: admin
-comments: true
-date: 09 Feb 2011 08:33:00 +0000
-layout: post
-slug: gpt-raid1-setup
+slug: "gpt-raid1-setup"
 title: GPT RAID1 setup.
-wordpress_id: 387
 categories:
-- Hardware
-- Linux
+  - Hardware
+  - Linux
+published_date: "2011-02-09 08:33:00 +0000"
+layout: default.liquid
+data:
+  wordpress_id: 387
+  author: admin
+  comments: true
+  layout: post
 ---
-
 My home partition hit 90% recently and I decided it was time to upgrade my storage. I had been running 4x250GB hard disks in a RAID1/RAID10 setup and switched to a 2x1TB RAID1 setup. The drives were Western Digital Advanced Format drives with 4kB physical sectors and 512B logical sectors. It is important when partitioning these drives to ensure that partitions start on a logical sector number that is divisible by 8 otherwise performance will suffer as file system clusters will not be aligned to the underlying 4kB physical sector. If the partition is not aligned then writes turn into a read-modify-write. I also decided to use a GPT instead of an MBR partition table. I used gdisk to create boot, swap, root and home partitions:
 
 
