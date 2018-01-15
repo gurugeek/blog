@@ -39,40 +39,40 @@ bad first soldering project.
 Below are some photos of the process.
 
 <a href="/images/planck_build/00.jpg">
-<img src="/images/planck_build/00.jpg"
-    alt="Parts" title="Parts" width="25%">
+<img class="thumb25" src="/images/planck_build/00.jpg"
+    alt="Parts" title="Parts">
 </a>
 <a href="/images/planck_build/01.jpg">
-<img src="/images/planck_build/01.jpg"
-    alt="Switch Testing" title="Switch Testing" width="25%">
+<img class="thumb25" src="/images/planck_build/01.jpg"
+    alt="Switch Testing" title="Switch Testing">
 </a>
 <a href="/images/planck_build/02.jpg">
-<img src="/images/planck_build/02.jpg"
-    alt="Placing the first switches" title="Placing the first switches" width="25%">
+<img class="thumb25" src="/images/planck_build/02.jpg"
+    alt="Placing the first switches" title="Placing the first switches">
 </a>
 <a href="/images/planck_build/03.jpg">
-<img src="/images/planck_build/03.jpg"
-    alt="Test fitting case before soldering" title="Test fitting case before soldering" width="25%">
+<img class="thumb25" src="/images/planck_build/03.jpg"
+    alt="Test fitting case before soldering" title="Test fitting case before soldering">
 </a>
 <a href="/images/planck_build/04.jpg">
-<img src="/images/planck_build/04.jpg"
-    alt="Switches soldered" title="Switches soldered" width="25%">
+<img class="thumb25" src="/images/planck_build/04.jpg"
+    alt="Switches soldered" title="Switches soldered">
 </a>
 <a href="/images/planck_build/05.jpg">
-<img src="/images/planck_build/05.jpg"
-    alt="Case assembled" title="Case assembled" width="25%">
+<img class="thumb25" src="/images/planck_build/05.jpg"
+    alt="Case assembled" title="Case assembled">
 </a>
 <a href="/images/planck_build/06.jpg">
-<img src="/images/planck_build/06.jpg"
-    alt="Switch caps laid out" title="Switch caps laid out" width="25%">
+<img class="thumb25" src="/images/planck_build/06.jpg"
+    alt="Switch caps laid out" title="Switch caps laid out">
 </a>
 <a href="/images/planck_build/07.jpg">
-<img src="/images/planck_build/07.jpg"
-    alt="Half way" title="Half way" width="25%">
+<img class="thumb25" src="/images/planck_build/07.jpg"
+    alt="Half way" title="Half way">
 </a>
 <a href="/images/planck_build/08.jpg">
-<img src="/images/planck_build/08.jpg"
-    alt="Half way" title="Complete" width="25%">
+<img class="thumb25" src="/images/planck_build/08.jpg"
+    alt="Half way" title="Complete">
 </a>
 
 ## Use
