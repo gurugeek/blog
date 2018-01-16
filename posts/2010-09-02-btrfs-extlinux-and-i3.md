@@ -12,7 +12,8 @@ data:
   comments: true
 ---
 Lately I have been experimenting with some of the netbook specific Linux distros
-on my Dell Mini 9. I looked at [Moblin][0], [ChromeOS][1], [Ubuntu Netbook
+on my Dell Mini 9. There are several distos aimed at netbooks available.
+I looked at [Moblin][0], [ChromeOS][1], [Ubuntu Netbook
 Remix][2] and [Jolicloud][3]. They were all fairly impressive though I did miss
 the simplicity and versatility of Arch Linux and decided to reinstall Arch
 Linux. I installed Arch Linux to a single ext4 partition with a 512M swap

@@ -5,7 +5,8 @@ data:
   layout: post
 ---
 I have recently become interested in compact keyboards. In particular the
-[Planck][0]. The Planck is unusual in many ways.
+[Planck][0]. The Planck is unusual in many ways compared to standard 104 key
+keyboard. In summary:
 
  * It is a 40% keyboard, much smaller than typical keyboards. With only 47/48
    keys, many keys are accessed via layer switching. The two keys next to the
